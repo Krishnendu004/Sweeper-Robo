@@ -1,4 +1,4 @@
-# Scrap-Hack
+# Sweeper Robo
 
 ### A small ultrasonic obstacle-detecting sweeper robot.
 
