@@ -4,6 +4,12 @@
 
 This Arduino project controls a rear drive wheel and a pair of front rotating disks through a dual-channel motor driver. An HC-SR04 ultrasonic sensor checks for a nearby wall. When the measured distance is under 15 cm, the sketch stops sending direction signals to both motor channels; otherwise, it runs the drive wheel in reverse and spins the disks.
 
+<div align="center">
+  <img src="images/header.jpeg" alt="Sweeper Robo prototype with drive wheels, motors, motor driver, and ultrasonic sensor" width="72%">
+  <br>
+  <sub>Sweeper Robo prototype</sub>
+</div>
+
 ## What it does
 
 - Reads distance from an HC-SR04 ultrasonic sensor.
